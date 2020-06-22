@@ -1,5 +1,3 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/81cd46f537d844a58961c2718640b089)](https://www.codacy.com/manual/lkumarra/Selenium.NET?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=lkumarra/Selenium.NET&amp;utm_campaign=Badge_Grade)
-
 # Selenium.NET Framework by Implementing Page Object Design Pattern
 
 # Project Stucture:
